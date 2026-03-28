@@ -1,0 +1,3 @@
+"""
+Binance Trading Bot Package
+"""
